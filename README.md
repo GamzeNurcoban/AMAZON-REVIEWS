@@ -23,15 +23,26 @@ fazla yorum alan ürünün kullanıcı puanları ve yorumları vardır.
 
 # DEĞİŞKENLER
 
-reviewerID = Kullanıcı ID’si
-asin = Ürün ID’si
-reviewerName = Kullanıcı Adı
-helpful = Faydalı değerlendirme derecesi
-reviewText =  Değerlendirme
-overall = Ürün rating’i
-summary = Değerlendirme özeti
-unixReviewTime = Değerlendirme zamanı
-reviewTime = Değerlendirme zamanı Raw
-day_diff = Değerlendirmeden itibaren geçen gün sayısı
-helpful_yes = Değerlendirmenin faydalı bulunma sayısı
-total_vote = Değerlendirmeye verilen oy sayısı
+ReviewerID = Kullanıcı ID’si
+
+Asin = Ürün ID’si
+
+ReviewerName = Kullanıcı Adı
+
+Helpful = Faydalı değerlendirme derecesi
+
+ReviewText =  Değerlendirme
+
+Overall = Ürün rating’i
+
+Summary = Değerlendirme özeti
+
+UnixReviewTime = Değerlendirme zamanı
+
+ReviewTime = Değerlendirme zamanı Raw
+
+Day_diff = Değerlendirmeden itibaren geçen gün sayısı
+
+Helpful_yes = Değerlendirmenin faydalı bulunma sayısı
+
+Total_vote = Değerlendirmeye verilen oy sayısı
